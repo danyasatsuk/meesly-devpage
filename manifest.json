@@ -1,0 +1,39 @@
+{
+  "short_name": "<Meesly\\>",
+  "name": "Meesly for you!",
+  "author": "danyasatsuk",
+  "developer": {
+    "name": "danyasatsuk",
+    "url": "https://github.com/danyasatsuk"
+  },
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "homepage": "https://meesly.com",
+  "theme": {
+    "black": "#262626",
+    "white": "#FFFFFF",
+    "noBlack": "#3F3F3F",
+    "noWhite": "#F2F2F2",
+    "header": "#FFFFFF",
+    "menu": "#FDFDFD"
+  }
+}
